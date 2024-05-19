@@ -17,6 +17,7 @@ Ligthweigth motd system designed for easy MOTD handling with RGB/MiniMotd suppor
 
 - https://github.com/4drian3d
 - https://github.com/jonakls
+- https://github.com/Overwrite987
 
 ## Why this plugin instead others?
 - Simple configuration system
